@@ -8,6 +8,7 @@ public class testClass {
 		int c=0;
 		int b=20;
 		int gh=30;
+		String d="fgfg";
 		return super.toString();
 	}
 	
