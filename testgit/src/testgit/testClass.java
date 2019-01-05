@@ -10,6 +10,7 @@ public class testClass {
 		int b=20;
 		int gh=30;
 		double ggg=20;
+		int a=1;
 		String d="fgfg";
 		return super.toString();
 	}
