@@ -16,6 +16,7 @@ public class testClass {
 		int hh=65;
 
 		int a=2;
+		b=100;
 		
 		return super.toString();
 	}
