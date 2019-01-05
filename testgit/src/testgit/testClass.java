@@ -17,7 +17,7 @@ public class testClass {
 
 
 		int a=31;
-		b=100;
+		b=200;
 		c=29;
 		return super.toString();
 	}
