@@ -15,9 +15,9 @@ public class testClass {
 		String d="fgfg";
 		int hh=65;
 
-		int a=2;
+
+		int a=31;
 		b=100;
-		
 		return super.toString();
 	}
 	
